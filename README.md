@@ -43,6 +43,9 @@ Create an Angular application using the HotTowel style (via a [Yeoman](http://ye
     yo hottowel helloWorld
     ```
 
+    >If you get errors about missing MS Build tools V140, you need to install the MS Build Tools 2015 first. You can download these from https://www.microsoft.com/en-us/download/details.aspx?id=48159. After you completed the installation, open a new command window and re-run the command above.
+
+
 ## HotTowel Options
 
 ### Application Name
